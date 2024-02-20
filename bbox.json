@@ -1,0 +1,19 @@
+{
+    "error": false,
+    "correlation_id": "c675ad1e-f322-4e8d-b96e-2d764b797b12",
+    "time": "2023-11-21T19:13:20Z",
+    "response": {
+        "detections": [
+            {
+                "label": "watermark",
+                "confidence": 0.92,
+                "bbox": [
+                    310,
+                    255,
+                    590,
+                    340
+                ]
+            }
+        ]
+    }
+}
